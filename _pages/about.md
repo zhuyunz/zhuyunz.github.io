@@ -25,7 +25,7 @@ My primary research focuses on the formation and evolution of galaxies. I work w
 
 Before coming to Caltech, I earned my Bachelor's degree in Astronomy from [Nanjing University](https://astronomy.nju.edu.cn/EN/). I was born and raised in Shenzhen, a beautiful coastal city in Southern China. 
 
-You can find a full list of my publications on NASA ADS [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-1945-2299%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+You can find a full list of my publications on NASA ADS [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1945-2299&sort=date+desc).
 
 
 
