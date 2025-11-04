@@ -6,7 +6,7 @@ subtitle: (she/her) #PhD candidate in <a href='https://www.astro.caltech.edu/'>C
 
 profile:
   align: right
-  image: avatar.HEIC
+  image: avatar.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>CIERA,</p>
