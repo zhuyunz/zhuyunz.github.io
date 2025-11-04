@@ -6,24 +6,21 @@ subtitle: (she/her) #PhD candidate in <a href='https://www.astro.caltech.edu/'>C
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar.HEIC
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Cahill 256</p>
-    <p>1216 E California Blvd </p>
-    <p>Pasadena, CA 91125, USA</p>
+    <p>CIERA 7104</p>
+    <p>1800 Sherman Ave </p>
+    <p>Evanston, IL 60201, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a final-year PhD candidate and NASA FINESST Fellow at [Caltech Astronomy](https://www.astro.caltech.edu/). 
+Hello! I am a CIERA Postdoctoral Fellow at Northwestern University, where I study how galaxies form, grow, and evolve over billions of years. I study the stellar populations and interstellar medium of galaxies at a range of redshifts using multi-slit and integral field spectroscopy. By measuring the abundances of key elements such as magnesium, iron, and oxygen, I aim to uncover the physical processes that drive chemical enrichment and link a galaxy’s past star formation to its present-day properties.
 
-My primary research focuses on the formation and evolution of galaxies. I work with my advisors [Chuck Steidel](https://sites.astro.caltech.edu/~ccs/) and [Evan Kirby](https://galacticarchaeology.nd.edu/people/evan-kirby/) to characterize the stellar populations and interstellar medium in galaxies at various redshifts. As an enthusiast of spectroscopy, I primarily use multi-slit and integral field spectrographs on the [Keck telescopes](https://www.keckobservatory.org) and the [Palomar 200-inch telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to measure the elemental abundances of galaxies, aiming to understand the physical processes driving the chemical evolution of galaxies.  
-
-
-Before coming to Caltech, I earned my Bachelor's degree in Astronomy from [Nanjing University](https://astronomy.nju.edu.cn/EN/). I was born and raised in Shenzhen, a beautiful coastal city in Southern China. 
+Before joining CIERA, I earned my PhD in Astrophysics from Caltech, where I worked with Chuck Steidel and Evan Kirby. I completed my B.Sc. in Astronomy at Nanjing University.
 
 You can find a full list of my publications on NASA ADS [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1945-2299&sort=date+desc).
 
