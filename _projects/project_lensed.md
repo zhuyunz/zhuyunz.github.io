@@ -8,7 +8,6 @@ category: work
 related_publications: true
 ---
 
-
 Gravitational lenses can magnify distant galaxies, allowing us to discover and characterize the stellar populations of intrinsically faint, quiescent galaxies that are otherwise extremely difficult to directly observe at high redshift from ground-based telescopes.
 
 <br />
@@ -19,8 +18,7 @@ Gravitational lenses can magnify distant galaxies, allowing us to discover and c
 </div>
 <br />
 
-In [Zhuang et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...948..132Z), we present the spectral analysis of two lensed, quiescent galaxies at $z\gtrsim 1$ discovered by the ASTRO 3D Galaxy Evolution with Lenses (AGEL) survey: AGEL1323 ($$M_*\sim 10^{11.1}M_{\odot}$$, $$z=1.016$$, $$\mu \sim 14.6$$)  and AGEL0014 ($$M_*\sim 10^{11.5}M_{\odot}$$, $$z=1.374$$, $$\mu \sim 4.3$$). We measured the age, [Fe/H], and [Mg/Fe] of the two lensed galaxies using deep, rest-frame-optical spectra obtained on the Keck I telescope. The ages of AGEL1323 andAGEL0014 are $$5.6^{+0.8}_{-0.8}$$ Gyr and $$3.1^{+0.8}_{-0.3}$$ Gyr, respectively, indicating that most of the stars in the galaxies were formed less than 2~Gyr after the Big Bang. 
-
+In [Zhuang et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...948..132Z), we present the spectral analysis of two lensed, quiescent galaxies at $z\gtrsim 1$ discovered by the ASTRO 3D Galaxy Evolution with Lenses (AGEL) survey: AGEL1323 ($$M_*\sim 10^{11.1}M_{\odot}$$, $$z=1.016$$, $$\mu \sim 14.6$$) and AGEL0014 ($$M_*\sim 10^{11.5}M_{\odot}$$, $$z=1.374$$, $$\mu \sim 4.3$$). We measured the age, [Fe/H], and [Mg/Fe] of the two lensed galaxies using deep, rest-frame-optical spectra obtained on the Keck I telescope. The ages of AGEL1323 andAGEL0014 are $$5.6^{+0.8}_{-0.8}$$ Gyr and $$3.1^{+0.8}_{-0.3}$$ Gyr, respectively, indicating that most of the stars in the galaxies were formed less than 2~Gyr after the Big Bang.
 
 <br />
 <div class="row">
@@ -30,8 +28,7 @@ In [Zhuang et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...948..132Z)
 </div>
 <br />
 
-Our sample {% cite Zhuang23 %} adds two valuable targets to the very limited database of the high-z quiescent galaxies with available stellar [Fe/H] and [Mg/Fe] measurements. Compared to nearby quiescent galaxies of similar masses, the lensed galaxies have lower [Fe/H]. Surprisingly, the two galaxies have comparable [Mg/Fe] to similar-mass galaxies at lower redshifts, despite their old ages, which implies that their SFHs are not significantly different from those of the massive ellipticals in the local universe. 
-
+Our sample {% cite Zhuang23 %} adds two valuable targets to the very limited database of the high-z quiescent galaxies with available stellar [Fe/H] and [Mg/Fe] measurements. Compared to nearby quiescent galaxies of similar masses, the lensed galaxies have lower [Fe/H]. Surprisingly, the two galaxies have comparable [Mg/Fe] to similar-mass galaxies at lower redshifts, despite their old ages, which implies that their SFHs are not significantly different from those of the massive ellipticals in the local universe.
 
 <br />
 
@@ -45,4 +42,3 @@ Our sample {% cite Zhuang23 %} adds two valuable targets to the very limited dat
         </p>
     </div>
 </div>
-

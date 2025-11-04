@@ -13,17 +13,18 @@
   contents:
     - title: CIERA Postdoctoral Fellow
       institution: Northwestern University, Evanston, USA
-      year: 2025 - Present
-          # - Description 2.
-          # - title: Description 3.
-          #   contents:
-          #     - Sub-description 1.
-          #     - Sub-description 2.
+      year:
+        2025 - Present
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: Ph.D. in Astrophysics
       institution: California Institute of Technology, Pasadena, USA
       year: 2025
       description:
-        - 'Advisors: Chuck Steidel and Evan Kirby (Notre Dame)'
+        - "Advisors: Chuck Steidel and Evan Kirby (Notre Dame)"
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -42,7 +43,6 @@
       # description:
       #   - Description 1.
       #   - Description 2.
-
 # - title: Experience
 #   type: time_table
 #   contents:
@@ -103,13 +103,10 @@
 #     - year: 2016 & 2018
 #       items: National Scholarship (Top 1%), Chinese Ministry of Education
 
-    
-        # - Matteucci Medal
-    # - year: 2029
-    #   items:
-    #     - Max Planck Medal
-
-
+# - Matteucci Medal
+# - year: 2029
+#   items:
+#     - Max Planck Medal
 
 # - title: Selected Awarded Observing Proposals
 #   type: nested_list
